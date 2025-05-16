@@ -1,6 +1,6 @@
 # Bostonshouse
 
-### Progetto P
+## Progetto P
 
 Dato il dataset che contiene le caratteristiche relative alle case di Boston. Realizzare uno
 studio di correlazioni tra le diverse features e scegliere un adeguato sottogruppo di features
@@ -17,12 +17,11 @@ applicazione in termini di errore nella seconda parte (secondo 50% - test).
 
 1. studio della feature più adeguata
 2. regressione non lineare che prevede i prezzi delle abitazioni
-   1. Train sulla prima metà
-   2. Predizione sulla seconda per un test
+   1. Train sulla prima metà 50%
+   2. Predizione sulla seconda per un test 50%
 3. Valutazione dell'errore sui test svolti (Diff tra i valori veri e i ris. del test)
    1. MSE
    2. RMSE
    3. MAE
    4. R^2
-   5. 
 4. Grafici a mai finire su qualsiasi cosa
