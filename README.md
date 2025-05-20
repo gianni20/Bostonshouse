@@ -23,6 +23,5 @@ applicazione in termini di errore nella seconda parte (secondo 50% - test).
    1. MSE
    2. RMSE
    3. MAE
-   4. R^2
 4. Grafici a mai finire su qualsiasi cosa
 5. Previsioni su dati a caso
